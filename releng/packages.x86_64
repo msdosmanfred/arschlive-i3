@@ -166,7 +166,6 @@ i3lock-color
 polybar
 arschlive-config-fish-git
 arschlive-config-starship-git
-arschlive-config-i3-git
 arschlive-config-polybar-git
 sddm
 alacritty
