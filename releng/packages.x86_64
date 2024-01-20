@@ -197,10 +197,11 @@ bibata-extra-cursor-theme
 powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
-ttf-mononoki-nerd
 shell-color-scripts
 neofetch
 starship
+nerd-fonts
+archlinux-wallpaper
 
 # Internetz
 firefox
