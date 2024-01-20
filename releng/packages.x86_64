@@ -173,6 +173,7 @@ alacritty
 i3status
 i3blocks
 betterlockscreen-git
+archlinux-logout-git
 lxappearance
 qt5ct
 termite
@@ -186,6 +187,7 @@ pavucontrol
 network-manager-applet
 accountsservice
 blueman
+mate-polkit
 
 # Eyecandy
 full-dracula-theme-git
