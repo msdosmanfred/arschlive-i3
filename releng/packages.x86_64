@@ -159,7 +159,7 @@ xf86-video-nouveau
 xf86-input-synaptics
 xf86-input-libinput
 desktop-file-utils
-dbus
+dbus-broker
 rofi
 i3
 i3lock-color
